@@ -1,6 +1,6 @@
 # Diário Escolar Online - TCC Presentation
 
-### 📍 **2019-2021**
+### ⏱️ **2019-2021**
 
 ## Resumo
 
