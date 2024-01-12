@@ -1,9 +1,7 @@
 # Diário Escolar Online - TCC Presentation
 
-👉🏻 **TCC de informática - IFMG OB 📚💻**
-📍 **2019-2021**
-
-[![Instagram](https://img.shields.io/badge/Instagram-diarioescolaronline-blue)](https://www.instagram.com/diarioescolaronline/)
+###👉🏻 **TCC de informática - IFMG OB 📚💻**
+###📍 **2019-2021**
 
 ## Resumo
 
