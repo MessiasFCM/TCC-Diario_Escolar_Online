@@ -1,7 +1,7 @@
 # Diário Escolar Online - TCC Presentation
 
-##👉🏻 **TCC de informática - IFMG OB 📚💻**
-##📍 **2019-2021**
+### 👉🏻 **TCC de informática - IFMG OB 📚💻**
+### 📍 **2019-2021**
 
 ## Resumo
 
